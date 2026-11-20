@@ -1,0 +1,7 @@
+emails.txt
+uv.lock
+.DS_Store
+linkedin.pdf
+summary.txt
+*.pyc
+.env
