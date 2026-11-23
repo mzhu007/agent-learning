@@ -5,3 +5,4 @@ linkedin.pdf
 summary.txt
 *.pyc
 .env
+cal_career/*
