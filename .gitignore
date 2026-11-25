@@ -6,3 +6,4 @@ summary.txt
 *.pyc
 .env
 cal_career/*
+crewai/*
