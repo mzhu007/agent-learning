@@ -6,5 +6,7 @@ summary.txt
 *.pyc
 .env
 *.db
+*.png
+*.yml
 cal_career/*
 crewai/*
