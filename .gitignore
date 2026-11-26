@@ -18,3 +18,5 @@ crewai/*
 notes.txt
 spanish.txt
 chinese.txt
+node_modules/
+.mastra/
