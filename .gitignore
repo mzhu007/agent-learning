@@ -10,5 +10,9 @@ summary.txt
 *.yml
 *.log
 *.md
+board.sqlite
+board.sqlite-shm
+board.sqlite-wal
+chinese.txt
 cal_career/*
 crewai/*
