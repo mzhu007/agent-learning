@@ -8,5 +8,7 @@ summary.txt
 *.db
 *.png
 *.yml
+*.log
+*.md
 cal_career/*
 crewai/*
