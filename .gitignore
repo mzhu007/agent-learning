@@ -10,6 +10,7 @@ summary.txt
 *.yml
 *.log
 *.md
+*.sqlite
 board.sqlite
 board.sqlite-shm
 board.sqlite-wal
@@ -20,3 +21,4 @@ spanish.txt
 chinese.txt
 node_modules/
 .mastra/
+memory/
